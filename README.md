@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi i'am phum
+public health khon kaen university
 
 <!--
 **Phumkku/Phumkku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
